@@ -1,1 +1,9 @@
 /* Add your own CSS code below */
+.red {
+  color: #c85308;
+}
+@media screen and (min-width: 992px) {
+  .site-header__title {
+    content: "codi";
+  }
+}
